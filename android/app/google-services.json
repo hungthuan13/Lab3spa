@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37696787827",
+    "project_id": "lab3spa-69ec2",
+    "storage_bucket": "lab3spa-69ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37696787827:android:e96b3de32bcd751a9b6106",
+        "android_client_info": {
+          "package_name": "com.app_spa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKD7XJ5XQ7Ap-WCZY3Uzs-7alpck385Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
